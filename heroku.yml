@@ -1,0 +1,8 @@
+build:
+  worker:
+    command:
+      - npm run build
+run:
+  worker:
+    command:
+      - npm run start
